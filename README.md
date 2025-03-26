@@ -36,8 +36,3 @@ Ensure that you have these libraries installed in your Python environment if you
 ## Author
 Germano Costa
 
-## How to Run the Notebook
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/DataScienceEcosystem.git
